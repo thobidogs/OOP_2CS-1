@@ -1,5 +1,5 @@
-# OOP_2CS-1
 ## 🖥️ Lab Assignment 3
+### OOP 2CS-1
 
 Develop a payment application that allows users to place orders for items, define the quantity, unit price, and choose a payment method (GCash, Maya, ShopeePay). The application should calculate the total amount based on the order details and any applicable discounts offered by the chosen payment method, storing the result in the totalAmount attribute of the Order class.
 Specific requirements:
